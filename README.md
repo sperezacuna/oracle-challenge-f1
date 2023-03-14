@@ -52,6 +52,6 @@ Iago Barreiro Río - i.barreiro.rio@gmail.com
 
 Santiago Pérez Acuña - santiago@perezacuna.com
 
-Victor Figueroa Maceira - crashyspyro@gmail.com
+Victor Figueroa Maceira - victorfigma@gmail.com
 
 <p align="right">(<a href="#top">back to top</a>)</p>
