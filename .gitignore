@@ -1,2 +1,5 @@
 *.jpeg
-models/*
+*.pt
+env/
+models/resnet152/temp/
+results/temp/
