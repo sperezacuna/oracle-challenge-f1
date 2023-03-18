@@ -1,6 +1,6 @@
 ## About The Project
 
-This is a food classifier built under the specification for the first challeng of the contest [Reto Enseña Oracle](https://nuwe.io/dev/competitions/reto-ensena-oracle-espana/clasificacion-imagenes-reto_1)
+This is a food classifier built under the specification for the first challenge of the contest [Reto Enseña Oracle](https://nuwe.io/dev/competitions/reto-ensena-oracle-espana/clasificacion-imagenes-reto_1)
 
 The main functionality of the project can be summarized as follows:
 
