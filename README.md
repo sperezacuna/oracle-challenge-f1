@@ -1,6 +1,6 @@
 ## About The Project
 
-This is a food classifier built under the specification for the first challengo of the contest [Reto Enseña Oracle](https://nuwe.io/dev/competitions/reto-ensena-oracle-espana/clasificacion-imagenes-reto_1)
+This is a food classifier built under the specification for the first challeng of the contest [Reto Enseña Oracle](https://nuwe.io/dev/competitions/reto-ensena-oracle-espana/clasificacion-imagenes-reto_1)
 
 The main functionality of the project can be summarized as follows:
 
@@ -72,7 +72,7 @@ To train a new model based on the [provided dataset](https://challenges-asset-fi
 
 If you do not want to train a new model, a model pretrained by us can be found [here](https://drive.google.com/drive/folders/1fYlo8V8_GKCog4U4gs-7nwwlejGfZOjI?usp=share_link)
 
-To infer the output values for the provided _data/processed/test.csv_ dataset (**given that a trained model is placed at _models/resnet152_ and has propper naming**):
+To infer the output values for the provided _data/processed/test.csv_ dataset (**given that a trained model is placed at _models/resnet152_ and has proper naming**):
 
 * Execute:
   ```bash
