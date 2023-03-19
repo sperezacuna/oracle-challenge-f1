@@ -6,7 +6,7 @@ The main functionality of the project can be summarized as follows:
 
 * Usage of predefined [ResNet152](https://arxiv.org/pdf/1512.03385.pdf) model.
 * Transfer learning using ([IMAGENET1K_V2](https://pytorch.org/vision/main/models/generated/torchvision.models.resnet152.html#torchvision.models.ResNet152_Weights)) weights.
-* Fine tune the model using [provided dataset]()
+* Fine tune the model using [provided dataset](https://challenges-asset-files.s3.us-east-2.amazonaws.com/Events/Oracle/oracle_CV.zip)
   * Segregate a portion of the dataset for validation purposes and hence avoiding overfitting.
   * Data augmentation using transforms.
 * Inference and result saving for test dataset as _json_ file.
