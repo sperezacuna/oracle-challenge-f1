@@ -37,7 +37,6 @@ Given that [python3](https://www.python.org/downloads/) and [pip](https://pypi.o
 
 * [NVIDIA CUDA Toolkit](https://developer.nvidia.com/cuda-downloads) version 11.0 or above is correctly installed.
 * [NVIDIA cuDNN](https://developer.nvidia.com/cudnn) version 7 or above is correctly installed.
-* Prerequisite two
 
 ### Installation
 
@@ -46,7 +45,7 @@ Given that [python3](https://www.python.org/downloads/) and [pip](https://pypi.o
 ```bash
 git clone git@github.com:sperezacuna/oracle-challenge-f1.git
 ```
-2. Create python [virtual environment](https://docs.python.org/3/library/venv.html) (recommended) and activate it (**recommended**)
+2. Create python [virtual environment](https://docs.python.org/3/library/venv.html) and activate it (**recommended**)
 
 ```bash
 python -m venv env
