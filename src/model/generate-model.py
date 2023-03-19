@@ -140,11 +140,11 @@ model = model.to(device)
 
 criterion = nn.CrossEntropyLoss()
 # Observe that all parameters are being optimized
-optimizer = optim.SGD(model.parameters(), lr=0.005, momentum=0.9)
+optimizer = optim.SGD(model.parameters(), lr=0.0075, momentum=0.9)
 # Decay LR by a factor of 0.1 every 7 epochs
 scheduler = lr_scheduler.StepLR(optimizer, step_size=7, gamma=0.1)
 
-model, statistics = train_model(model, criterion, optimizer, scheduler, num_epochs=30)
+model, statistics = train_model(model, criterion, optimizer, scheduler, num_epochs=25)
 
 model_uuid = uuid.uuid4().hex
 timestamp = datetime.now().strftime("%Y-%m-%d@%H:%M")
